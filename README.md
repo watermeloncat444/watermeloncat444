@@ -31,8 +31,7 @@ I'm always learning something new and enjoy figuring out how things work under t
 
 <div align="center">
 
-**C++** • **C#** • **JavaScript** • **Lua**
-
+C++ • C# • JavaScript • Lua • HTML • CSS • TypeScript • PHP • Python
 </div>
 
 ---
