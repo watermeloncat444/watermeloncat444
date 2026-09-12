@@ -28,7 +28,7 @@ I'm always learning something new and enjoy figuring out how things work under t
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,js,lua" height="70"/>
+<img src="https://skillicons.dev/icons?i=cpp,hmtl,cs,js,lua" height="70"/>
 
 </div>
 
@@ -78,18 +78,9 @@ I'm always learning something new and enjoy figuring out how things work under t
 </div>
 
 
-
-## 📚 Currently Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,cs,js,lua" height="60"/>
-
-</div>
-
 I'm currently focusing on:
 
-**C++ • C# • JavaScript • Lua**
+**C++ • C# • JavaScript • Lua • HTML**
 
 Alongside that, I'm comfortable working with:
 
