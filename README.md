@@ -81,41 +81,33 @@ I'm always learning something new and enjoy figuring out how things work under t
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=watermeloncat444&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=watermeloncat444&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+</p>
 
 ## 💻 Most Used Languages
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=watermeloncat444&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=watermeloncat444&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most Used Languages" />
+</p>
 
 ## 📈 Live Contribution Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=watermeloncat444&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=watermeloncat444&theme=tokyo-night&hide_border=true" />
+## 🔥 Contribution Streak
 
-</div>
-
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=watermeloncat444&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=watermeloncat444&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=watermeloncat444&theme=tokyonight&no-frame=true&no-bg=true&column=4" alt="GitHub Trophies" />
+</p>
 
 ---
 
