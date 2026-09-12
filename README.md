@@ -77,39 +77,7 @@ I'm always learning something new and enjoy figuring out how things work under t
 
 </div>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=watermeloncat444&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
-</p>
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=watermeloncat444&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most Used Languages" />
-</p>
-
-## 📈 Live Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=watermeloncat444&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=watermeloncat444&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=watermeloncat444&theme=tokyonight&no-frame=true&no-bg=true&column=4" alt="GitHub Trophies" />
-</p>
-
----
 
 ## 📚 Currently Learning
 
