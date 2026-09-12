@@ -23,14 +23,11 @@ I'm always learning something new and enjoy figuring out how things work under t
 - 🚀 Always working on something new
 
 ---
+## 🧠 What I'm Learning
 
-## 🧠 Languages I'm Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,hmtl,cs,js,lua" height="70"/>
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,js,lua,html,css,ts,php,python" />
+</p>
 
 <div align="center">
 
