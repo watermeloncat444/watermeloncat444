@@ -12,15 +12,15 @@
 
 I'm a developer who loves **coding, building things and exploring new technology**.
 
-I'm always learning something new and enjoy figuring out how things work under the hood. I'm interested in programming, game/server development, databases, web development and experimenting with different technologies.
+I'm always learning something new and enjoy figuring out how things work under the hood.
 
-* 💻 I love coding and building projects
-* 🔎 I enjoy exploring new technologies
-* 🧠 Always learning something new
-* 🎮 Interested in game/server development
-* 🗄️ Comfortable working with SQL and MongoDB
-* 🛠️ I enjoy turning ideas into working projects
-* 🚀 Always working on something new
+- 💻 I love coding and building projects
+- 🔎 I enjoy exploring new technologies
+- 🧠 Always learning something new
+- 🎮 Interested in game/server development
+- 🗄️ Comfortable working with SQL and MongoDB
+- 🛠️ I enjoy turning ideas into working projects
+- 🚀 Always working on something new
 
 ---
 
@@ -28,13 +28,13 @@ I'm always learning something new and enjoy figuring out how things work under t
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,js,lua" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,js,lua" height="70"/>
 
 </div>
 
 <div align="center">
 
-**C++**   •   **C#**   •   **JavaScript**   •   **Lua**
+**C++** • **C#** • **JavaScript** • **Lua**
 
 </div>
 
@@ -44,48 +44,56 @@ I'm always learning something new and enjoy figuring out how things work under t
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" height="70"/>
 
 </div>
 
 <div align="center">
 
-**SQL**   •   **MongoDB**   •   **HeidiSQL**
+**SQL** • **MongoDB** • **HeidiSQL**
 
 </div>
 
 ---
 
-## 🚀 What I'm Interested In
+## 🚀 What I Like Building
 
-🎮 Game Development
-🌐 Web Development
-🧩 Scripting
-🗄️ Databases
-⚙️ Backend Development
-🔐 Security & Systems
-🤖 Automation
-🔎 Exploring Technology
+🎮 Game / Server Development  
+🌐 Web Development  
+🧩 Scripting  
+🗄️ Databases  
+⚙️ Backend Development  
+🔐 Security & Systems  
+🤖 Automation  
+🔎 Exploring Technology  
 
 ---
 
-## 🔥 GitHub Stats
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=watermeloncat444&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=watermeloncat444&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://streak-stats.demolab.com?user=watermeloncat444&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
 ---
 
-## 🔥 Contribution Streak
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=watermeloncat444&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=watermeloncat444&show_icons=true&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 💻 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=watermeloncat444&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -105,7 +113,7 @@ I'm always learning something new and enjoy figuring out how things work under t
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=watermeloncat444&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=watermeloncat444&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
 
 </div>
 
@@ -115,11 +123,11 @@ I'm always learning something new and enjoy figuring out how things work under t
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,js,lua" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,js,lua" height="60"/>
 
 </div>
 
-I'm currently focusing on improving my knowledge of:
+I'm currently focusing on:
 
 **C++ • C# • JavaScript • Lua**
 
@@ -129,18 +137,16 @@ Alongside that, I'm comfortable working with:
 
 ---
 
-## 🎮 What I Build
+## 🎮 What I'm Interested In
 
-I enjoy working on projects involving:
-
-* 🎮 FiveM / game development
-* ⚙️ Server systems
-* 🌐 Websites and web applications
-* 🗄️ Database systems
-* 🔌 APIs and integrations
-* 🤖 Automation
-* 🧪 Experimental projects
-* 🔐 Security and system exploration
+- 🎮 FiveM / Game Development
+- ⚙️ Server Systems
+- 🌐 Websites & Web Applications
+- 🗄️ Database Systems
+- 🔌 APIs & Integrations
+- 🤖 Automation
+- 🧪 Experimental Projects
+- 🔐 Security & Systems
 
 ---
 
@@ -148,19 +154,9 @@ I enjoy working on projects involving:
 
 > **Build things. Break things. Learn things. Build better things.**
 
-I like exploring technology rather than sticking to one specific area.
+I'm interested in a lot of different areas of technology.
 
-If something interests me, I'll probably end up taking it apart, figuring out how it works and trying to build something with it.
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-![GitHub Snake](https://raw.githubusercontent.com/watermeloncat444/watermeloncat444/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+If something catches my attention, I like exploring it, figuring out how it works and trying to build something with it.
 
 ---
 
